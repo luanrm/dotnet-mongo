@@ -27,3 +27,8 @@
 /Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
 /Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
 /Users/luan/Applications/apps/dotnet-mongo/obj/Debug/netcoreapp3.1/dotnet-mongo.csproj.CopyComplete
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/web.config
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/appsettings.Development.json
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/appsettings.json
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/dotnet-mongo.deps.json
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/dotnet-mongo.runtimeconfig.json
