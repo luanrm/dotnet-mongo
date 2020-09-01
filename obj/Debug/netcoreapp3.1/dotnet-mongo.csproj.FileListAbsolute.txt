@@ -27,6 +27,7 @@
 /Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
 /Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
 /Users/luan/Applications/apps/dotnet-mongo/obj/Debug/netcoreapp3.1/dotnet-mongo.csproj.CopyComplete
+<<<<<<< HEAD
 C:\git\dotnet-mongo\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\git\dotnet-mongo\bin\Debug\netcoreapp3.1\appsettings.json
 C:\git\dotnet-mongo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -57,3 +58,10 @@ C:\git\dotnet-mongo\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-mongo.StaticW
 C:\git\dotnet-mongo\obj\Debug\netcoreapp3.1\dotnet-mongo.dll
 C:\git\dotnet-mongo\obj\Debug\netcoreapp3.1\dotnet-mongo.pdb
 C:\git\dotnet-mongo\obj\Debug\netcoreapp3.1\dotnet-mongo.genruntimeconfig.cache
+=======
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/web.config
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/appsettings.Development.json
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/appsettings.json
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/dotnet-mongo.deps.json
+/Users/luan/Applications/apps/dotnet-mongo/bin/Debug/netcoreapp3.1/publish/dotnet-mongo.runtimeconfig.json
+>>>>>>> f84beb752b3032110ff49cf4a6aaf7ed2d781c2d
